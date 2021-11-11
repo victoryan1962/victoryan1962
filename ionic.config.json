@@ -1,0 +1,7 @@
+{
+  "name": "vicmobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
